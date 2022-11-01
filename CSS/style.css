@@ -18,3 +18,38 @@
   width: 300px;
   height: 150px;
 }
+
+
+body {
+  background: rgb(2,0,36);
+  background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+*/*.fordFiesta {
+  width: 1000px;
+}*/
+
+/* 
+.carousel-inner img {
+    width: 500px;
+    height: 500px;
+}
+
+.carousel-inner{
+ height: 500px;
+ width: 1000px;
+}
+
+.carousel-item {
+  height: 140px;
+} */
+
+.alto {
+  height: 800px;
+  object-fit:contain;
+}
+
+.bienvenida {
+  text-decoration: font-family: 'Bebas Neue', cursive;
+;
+}
