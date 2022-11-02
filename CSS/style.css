@@ -123,3 +123,13 @@ body {
 .cartasVenta {
   width: 500px;
 }
+
+
+.galeria {
+  object-fit:contain;
+  height: 500px;
+}
+
+.videoYT {
+  
+}
